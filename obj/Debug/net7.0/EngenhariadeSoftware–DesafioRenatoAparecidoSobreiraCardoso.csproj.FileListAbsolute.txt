@@ -1,5 +1,4 @@
 C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso.exe
-C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\SheetApi.json
 C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso.deps.json
 C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso.runtimeconfig.json
 C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso.dll
@@ -23,3 +22,4 @@ C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoS
 C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\System.Management.dll
 C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
 C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\obj\Debug\net7.0\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso.csproj.CopyComplete
+C:\Users\renat\Desktop\Nova pasta\EngenhariadeSoftware–DesafioRenatoAparecidoSobreiraCardoso\bin\Debug\net7.0\SheetApi.json
